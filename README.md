@@ -8,7 +8,7 @@
 
 ## 💻 Projeto
 
-https://github.com/Kayqueew/Github-Pages/assets/92122337/d198d4b4-ef9a-4252-87ce-8a7154b19171
+https://github.com/Kayqueew/Ignite-Shop/assets/92122337/bb987ba4-1706-4d3d-8cb7-ea43e827f64d
 
 ##  Layout
 
