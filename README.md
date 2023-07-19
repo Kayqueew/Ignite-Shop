@@ -41,6 +41,8 @@ $ um e-mail válido.
 $ Número do cartão: 4242 4242 4242 4242.
 
 $ data de validade utilize uma data futura.
+
+& Utilize qualquer código de 3 dígitos no CVC.
 ```
  
 </br> 
