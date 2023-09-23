@@ -21,7 +21,6 @@ Você pode visualizar o layout do projeto [Github Blog](https://www.figma.com/fi
   </br>
 
 ### Tecnologias usadas:
-projeto foi feito com vite e TypeScript
 
 - stripe
 - radix-ui
@@ -31,6 +30,7 @@ projeto foi feito com vite e TypeScript
 - Phosphor-React
 - NextJs
 - React
+- TypeScript
 
 </br>
 
